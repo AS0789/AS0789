@@ -23,7 +23,7 @@
 </p>
 
 ## 自己紹介
-パソコンが趣味の中学生、アズ(AS)です。
+パソコンが趣味の高校生、アズ(AS)です。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AS0789&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=as0789&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
