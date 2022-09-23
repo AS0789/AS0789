@@ -23,11 +23,6 @@
 
 ## 経歴
 ### Discord(編集中)
-「D-Techs Circle」管理者。「D-Lang Lab」管理者。逃走中 in Minecraft」モデレーター。「逃走中 in Minecraft Server」元共同所有者兼クリエイター。「shining cafe」管理者。「鯖主総会 EY本部」運営。「𝕴𝖓𝖛𝖆𝖉𝖊𝖗」元副管理者。「Minecraft Hypixel JP」所有者。「Media Portal on Discord」所有者。「@everyone」管理人。「MGYStudio」元統括運営部。「General Evolution Server」元管理者。「ジェネラル学園」学長。「VARIUS.」主任開発者。「けいと鯖」SubAdmin。「ゆったり雑談」Helper。「HOUSE🏠～みんなのおうち～」職員。「🔥Wieder aufflammen🔥」元副管理者。「鯖主総会」総裁。その他多数。
-  </ul>
-</div>
-</tr>
-</table>
 
 ## ステータス
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AS0789&show_icons=true&bg_color=36393F&title_color=08F&text_color=FFF&locale=ja&)](https://github.com/anuraghazra/github-readme-stats)
