@@ -1,21 +1,21 @@
 <div align="left"> 
   <a href="https://github.com/AS0789/AS0789/">
-    <img height="20" src="https://komarev.com/ghpvc/?username=AS0789&label=Acsess Count&style=for-the-badge&logo=appveyor" alt="AS0789" />
+    <img height="24" src="https://komarev.com/ghpvc/?username=AS0789&label=Acsess Count&style=for-the-badge&logo=appveyor" alt="AS0789" />
   </a>
   <a href="http://twitter.com/ASTwi2nd">
-    <img height="20" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=@ASTwi2nd&logo=twitter&style=for-the-badge&color=1da1f2" />
+    <img height="24" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=@ASTwi2nd&logo=twitter&style=for-the-badge&color=1da1f2" />
   </a>
   <a href="https://github.com/AS0789">
-    <img height="20" src="https://img.shields.io/github/followers/AS0789?label=Follower&logo=github&style=for-the-badge&color=272b33" />
+    <img height="24" src="https://img.shields.io/github/followers/AS0789?label=Follower&logo=github&style=for-the-badge&color=272b33" />
   </a>
   <a href="https://www.reddit.com/user/ArsenicInteger">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/ArsenicInteger?label=Follower&logo=reddit&style=for-the-badge&color=FF4500" />
+    <img height="24" src="https://img.shields.io/reddit/user-karma/combined/ArsenicInteger?label=Follower&logo=reddit&style=for-the-badge&color=FF4500" />
   </a>
   <a href="https://www.twitch.tv/arsenicinteger">
-    <img height="20" src="https://img.shields.io/twitch/status/arsenicinteger?label=Status&logo=twitch&style=for-the-badge&color=a970FF" />
+    <img height="24" src="https://img.shields.io/twitch/status/arsenicinteger?label=Status&logo=twitch&style=for-the-badge&color=a970FF" />
   </a>
   <a href="https://www.youtube.com/assupergames">
-    <img height="20" src="https://img.shields.io/static/v1?label=Subscriber&message=1129&logo=youtube&style=for-the-badge&color=FF0000" />
+    <img height="24" src="https://img.shields.io/static/v1?label=Subscriber&message=1129&logo=youtube&style=for-the-badge&color=FF0000" />
   </a>
 </div>
 
