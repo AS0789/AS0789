@@ -3,7 +3,7 @@
     <img height="24" src="https://komarev.com/ghpvc/?username=AS0789&label=Acsess Count&style=for-the-badge&logo=appveyor" alt="AS0789" />
   </a>
   <a href="http://twitter.com/ASTwi2nd">
-    <img height="24" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=@ASTwi2nd&logo=twitter&style=for-the-badge&color=1da1f2" />
+    <img height="24" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=Follower&logo=twitter&style=for-the-badge&color=1da1f2" />
   </a>
   <a href="https://github.com/AS0789">
     <img height="24" src="https://img.shields.io/github/followers/AS0789?label=Follower&logo=github&style=for-the-badge&color=272b33" />
