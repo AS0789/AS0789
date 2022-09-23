@@ -14,6 +14,9 @@
   <a href="https://www.twitch.tv/arsenicinteger">
     <img height="20" src="https://img.shields.io/twitch/status/arsenicinteger?label=Status&logo=twitch&style=for-the-badge&color=a970FF" />
   </a>
+  <a href="https://www.youtube.com/assupergames">
+    <img height="20" src="https://img.shields.io/static/v1?label=Subscriber&message=1129&logo=youtube&style=for-the-badge&color=FF0000" />
+  </a>
 </div>
 
 ## 自己紹介
