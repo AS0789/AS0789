@@ -1,6 +1,6 @@
 <div align="left"> 
   <a href="https://github.com/AS0789/AS0789/">
-    <img height="24" src="https://komarev.com/ghpvc/?username=AS0789&label=Acsess Count&style=for-the-badge&logo=appveyor" alt="AS0789" />
+    <img height="24" src="https://komarev.com/ghpvc/?username=AS0789&label=Acsess Count&style=for-the-badge&logo=appveyor&color=4488FF" alt="AS0789" />
   </a>
   <a href="http://twitter.com/ASTwi2nd">
     <img height="24" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=Follower&logo=twitter&style=for-the-badge&color=1da1f2" />
