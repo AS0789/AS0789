@@ -1,6 +1,6 @@
 <div align="left"> 
-  <a href="http://twitter.com/ASTwi2nd">
-    <img height="24" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=Follower&logo=twitter&style=for-the-badge&color=1da1f2" />
+  <a href="http://x.com/ASTwi2nd">
+    <img height="24" src="https://img.shields.io/twitter/follow/ASTwi2nd?label=Follower&logo=x&style=for-the-badge&color=1da1f2" />
   </a>
   <a href="https://github.com/AS0789">
     <img height="24" src="https://img.shields.io/github/followers/AS0789?label=Follower&logo=github&style=for-the-badge&color=272b33" />
@@ -14,7 +14,10 @@
   <a href="https://www.youtube.com/assupergames">
     <img height="24" src="https://img.shields.io/static/v1?label=Subscriber&message=1129&logo=youtube&style=for-the-badge&color=FF0000" />
   </a>
-
+  <a href="https://bsky.app/profile/02as.bsky.social">
+    <img height="24" src="https://badgen.org/img/bluesky/02as.bsky.social/followers?style=for-the-badge&label=Followers" />
+  </a>
+  
 # 自己紹介
 パソコンが趣味の高校生です。
 
