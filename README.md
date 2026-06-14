@@ -17,6 +17,7 @@
   <a href="https://bsky.app/profile/02as.bsky.social">
     <img height="24" src="https://badgen.org/img/bluesky/02as.bsky.social/followers?style=for-the-badge&label=Followers" />
   </a>
+</div>
   
 ## 自己紹介 / ABOUT-ME
 パソコンが趣味の大学生です。
