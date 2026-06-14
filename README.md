@@ -13,7 +13,7 @@
   
 ## 自己紹介 / ABOUT-ME
 🏠️ Tokyo, Japan </br>
-🎓️ `       ` University student </br>
+🎓️ Student at `       ` University </br>
 💻️ Learning **C++**, **Python**, **JavaScript**, etc... </br>
 🌱 Everything is 中途半端. </br>
 
