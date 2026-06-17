@@ -30,6 +30,6 @@
 <div>
   <a href="http://x.com/ASTwi2nd">
     <img height="36" src="https://img.shields.io/badge/Twitter-@ASTwi2nd-1da1f2?style=for-the-badge&logo=x" /></a>&nbsp;
-  <a href="https://discord.com/channels/@me/715008959668551681">
+  <a href="https://discordapp.com/users/715008959668551681">
     <img height="36" src="https://img.shields.io/badge/Discord-02as-5865f2?style=for-the-badge&logo=discord" /></a>&nbsp;
 </div>
